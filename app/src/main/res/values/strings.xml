@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentsTesting</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="not_okey">Stop</string>
+    <string name="okey">Go</string>
+    <string name="default_text">Default</string>
+</resources>
